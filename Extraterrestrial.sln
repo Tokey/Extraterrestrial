@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Extraterrestrial.Plugins", "Extraterrestrial.Plugins.csproj", "{5DD09B33-487F-6D65-FE73-536783DAD4B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Extraterrestrial", "Extraterrestrial.csproj", "{F7266404-B74E-0EAC-1EC2-309A8CEAB038}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Extraterrestrial.Editor", "Extraterrestrial.Editor.csproj", "{DBBBD56D-25BD-894C-AA20-9BAFEEAFC213}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DD09B33-487F-6D65-FE73-536783DAD4B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DD09B33-487F-6D65-FE73-536783DAD4B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DD09B33-487F-6D65-FE73-536783DAD4B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DD09B33-487F-6D65-FE73-536783DAD4B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7266404-B74E-0EAC-1EC2-309A8CEAB038}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7266404-B74E-0EAC-1EC2-309A8CEAB038}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7266404-B74E-0EAC-1EC2-309A8CEAB038}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7266404-B74E-0EAC-1EC2-309A8CEAB038}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBBBD56D-25BD-894C-AA20-9BAFEEAFC213}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBBBD56D-25BD-894C-AA20-9BAFEEAFC213}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBBBD56D-25BD-894C-AA20-9BAFEEAFC213}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBBBD56D-25BD-894C-AA20-9BAFEEAFC213}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
